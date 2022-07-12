@@ -1,7 +1,7 @@
 # include<iostream>
 using namespace std;
 
-/*program for binary search of array element
+/*Find Minimum Element in an Array
 
 */
 int main()
