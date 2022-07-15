@@ -10,7 +10,7 @@ float add(float x,float y)
 	return z;
 }
 
-int main()
+float main()
 {
 	int a = 3.5, b = 7.9,c;
 	c=add(a, b);
